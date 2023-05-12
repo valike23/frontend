@@ -8,7 +8,7 @@
         <div class="row align-items-center">
             <div class="col-xl-2 col-lg-3 col-11">
                 <a href="./" class="logo">
-                    <img src="logo.png" alt="logo" style="width:250px; height: 150px">
+                    <img src="logo.png" alt="logo" style="width:425px; height: 125px">
                 </a>
             </div>
             <div class="col-xl-8 col-lg-6 col-1 text-sm-center">
