@@ -13,7 +13,6 @@ import SearchModal from "../components/modals/SearchModal.svelte";
   import Map from "../components/pages/home/Map.svelte";
   import Programs from "../components/pages/home/Programs.svelte";
   import Slider from "../components/pages/home/Slider.svelte";
-  import Summary from "../components/pages/home/Summary.svelte";
   import Teams from "../components/pages/home/Teams.svelte";
 import Preloader from "../components/utils/Preloader.svelte";
 
@@ -37,7 +36,7 @@ import Preloader from "../components/utils/Preloader.svelte";
 		<Faq></Faq>
 		<Map></Map>
 		<Contact></Contact>
-		<Summary></Summary>
+		<ContactInfo></ContactInfo>
 		<Footer></Footer>
 		<CopyWright></CopyWright>
 	</div>
